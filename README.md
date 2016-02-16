@@ -38,3 +38,6 @@ int_to_word(200017)   == "two hundred thousand seventeen"
 int_to_word(784)      == "seven hundred eighty four"
 int_to_word(1000215)  == "one million two hundred fifteen"
 ```
+
+## Very small change: 
+    - added 'and' in the phrase where appropiate. seemed more natural
